@@ -22,6 +22,7 @@
 
 ![popup](https://user-images.githubusercontent.com/68289203/118325902-d56f2c80-b50c-11eb-9ebd-0850be0011c0.png)
 
+Для запуска выполнить команду : ```gradlew clean test```
 
 
 
